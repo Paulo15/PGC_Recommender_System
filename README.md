@@ -1,1 +1,2 @@
-# PGC_Recommender_System
+# Recommender_system
+Repositório referente ao Projeto de Graduação em Computação
